@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## roll:212223240104
-## name:naresh.r
+## NAME : NARESH.R
+## ROLL NO : 212223240104
 ## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
