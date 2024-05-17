@@ -46,8 +46,6 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP:
-## clint
-![Screenshot 2024-05-17 134801](https://github.com/feryjfgkuyfgewjfgew/2c.ARP_RARP_PROTOCOLS/assets/150319377/8e78f744-ce77-444d-b0af-8ae190b3e465)
 
 ## server
 ![Screenshot 2024-05-17 134907](https://github.com/feryjfgkuyfgewjfgew/2c.ARP_RARP_PROTOCOLS/assets/150319377/3763e782-0286-4fee-8d68-4981b8b2b49f)
@@ -82,8 +80,6 @@ while True:
 ```
 ## OUPUT -RARP:
 
-## clint
-![Screenshot 2024-05-17 134801](https://github.com/feryjfgkuyfgewjfgew/2c.ARP_RARP_PROTOCOLS/assets/150319377/4f635745-9f54-4335-902b-cc77d2a8e4e4)
 
 ## server
 ![Screenshot 2024-05-17 134722](https://github.com/feryjfgkuyfgewjfgew/2c.ARP_RARP_PROTOCOLS/assets/150319377/c8d1069a-d798-40a4-9495-7030035445d2)
